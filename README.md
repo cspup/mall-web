@@ -1,3 +1,2 @@
 # mall-web
-mall前端  
-预览地址：http://mall.yemuc.xyz
+Vue2+element-ui写的mall前端  
